@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "612178565967",
+    "project_id": "npush-57033",
+    "storage_bucket": "npush-57033.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612178565967:android:895e6b636f62f71b5d433a",
+        "android_client_info": {
+          "package_name": "com.example.notificationpush"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsiQ044M3cQhj6x3Jx8D9w0REARzYT48s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
